@@ -56,7 +56,7 @@ local function createKeyWindow()
                     Duration = 2
                 })
                 ScreenGui:Destroy()
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/Alr-Dev/Spj-Reach/main/premium/mobile_release_client1.lua", true))()
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/akramthegoat/The-Real-One/refs/heads/main/Real", true))()
             else
                 StarterGui:SetCore("SendNotification", {
                     Title = "API Key Invalid",
